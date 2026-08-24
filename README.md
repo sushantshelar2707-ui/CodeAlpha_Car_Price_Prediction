@@ -86,3 +86,7 @@ After cleaning:
 
 ```text
 Dataset Shape: (299, 9)
+
+
+actual_vs_predicted_car_prices.png
+
