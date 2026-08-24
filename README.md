@@ -68,10 +68,6 @@ After removing duplicate records:
 | `Owner` | Number of previous owners |
 
 ---
-## actual_vs_predicted_car_prices.png
-Visualizations/actual_vs_predicted_car_prices.png
-
-
 
 ## Data Preprocessing
 
